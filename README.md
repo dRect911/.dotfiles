@@ -19,3 +19,10 @@ pacman -Qqe | xargs pacman -Qi | awk '/^Name/{name=$3}/^Description/{desc=$0; pr
 This command gets the list of explicitly installed packages, retrieves information about each package, and writes the package name along with its description to a file named `pkglist_with_descriptions.txt`.
 
 Feel free to adjust these commands based on your specific requirements or preferences.
+
+### Oh-My-Zsh Installation
+
+Via curl
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
