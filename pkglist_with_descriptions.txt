@@ -1,0 +1,288 @@
+acpi Description     : Client for battery, power, and thermal readings
+acpid Description     : A daemon for delivering ACPI power management events with netlink support
+adobe-source-han-sans-cn-fonts Description     : Adobe Source Han Sans Subset OTF - Simplified Chinese OpenType/CFF fonts
+adobe-source-han-sans-jp-fonts Description     : Adobe Source Han Sans Subset OTF - Japanese OpenType/CFF fonts
+adobe-source-han-sans-kr-fonts Description     : Adobe Source Han Sans Subset OTF - Korean OpenType/CFF fonts
+adobe-source-sans-fonts Description     : Sans-serif font family for user interface environments
+adw-gtk-theme Description     : LibAdwaita Theme for all GTK3 and GTK4 Apps
+alacarte Description     : Menu editor for gnome
+alacritty Description     : A cross-platform, GPU-accelerated terminal emulator
+ansible Description     : Official assortment of Ansible collections
+apparmor Description     : Mandatory Access Control (MAC) using Linux Security Module (LSM)
+b43-fwcutter Description     : firmware extractor for the b43 kernel module
+baobab Description     : A graphical directory tree analyzer
+base Description     : Minimal package set to define a basic Manjaro Linux installation
+base-devel Description     : Basic tools to build Manjaro Linux packages
+betterlockscreen Description     : A simple, minimal lockscreen
+bibata-cursor-theme Description     : Material Based Cursor Theme
+bluez-utils Description     : Development and debugging utilities for the bluetooth protocol stack
+bmenu Description     : Bash scripts providing a collection of terminal applications in a simple UI
+btrfs-progs Description     : Btrfs filesystem utilities
+btrfsmaintenance Description     : Scripts for btrfs maintenance tasks
+bzip2 Description     : A high-quality data compression program
+caffeine-ng Description     : Status bar application able to temporarily inhibit the screensaver and sleep mode.
+cheese Description     : Take photos and videos with your webcam, with fun graphical effects
+code Description     : The Open Source build of Visual Studio Code (vscode) editor
+collision Description     : Check hashes for your files. A simple GUI tool to generate, compare and verify MD5, SHA1 & SHA256 hashes
+coreutils Description     : The basic file, shell and text manipulation utilities of the GNU operating system
+cpupower Description     : Linux kernel tool to examine and tune power saving related features of your processor
+cronie Description     : Daemon that runs specified programs at scheduled times and related tools
+cryptsetup Description     : Userspace setup tool for transparent encryption of block devices using dm-crypt
+dart Description     : The dart programming language SDK
+deja-dup Description     : A trivial-to-use personal backup tool to protect against accidental data loss
+device-mapper Description     : Device mapper userspace library and tools
+dhclient Description     : A standalone DHCP client from the dhcp package
+dhcpcd Description     : DHCP/ IPv4LL/ IPv6RA/ DHCPv6 client
+diffutils Description     : Utility programs used for creating patch files
+discord Description     : All-in-one voice and text chat for gamers
+dmidecode Description     : Desktop Management Interface table related utilities
+dmraid Description     : Device mapper RAID interface
+dnsmasq Description     : Lightweight, easy to configure DNS forwarder and DHCP server
+dosfstools Description     : DOS filesystem utilities
+e2fsprogs Description     : Ext2/3/4 filesystem utilities
+ecryptfs-utils Description     : Enterprise-class stacked cryptographic filesystem for Linux
+efibootmgr Description     : Linux user-space application to modify the EFI Boot Manager
+endeavour Description     : Personal task manager (Formerly GNOME Todo)
+evince Description     : Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt)
+exfatprogs Description     : exFAT filesystem userspace utilities for the Linux Kernel exfat driver
+f2fs-tools Description     : Tools for Flash-Friendly File System (F2FS)
+feh Description     : Fast and light imlib2-based image viewer
+ffmpeg-audio-thumbnailer Description     : Minimal thumbnailer for audio files using ffmpeg that can be used by file managers
+ffmpegthumbnailer Description     : Lightweight video thumbnailer that can be used by file managers
+figma-linux Description     : The collaborative interface design tool. Unofficial Figma desktop client for Linux
+file-roller Description     : Create and modify archives
+firefox Description     : Standalone web browser from mozilla.org
+font-manager Description     : A simple font management application for GTK+ Desktop Environments
+fprintd Description     : D-Bus service to access fingerprint readers
+fragments Description     : BitTorrent client for GNOME
+gdm Description     : Display manager and login screen
+geary Description     : A lightweight email client for the GNOME desktop
+gedit Description     : GNOME Text Editor
+github-cli Description     : The GitHub CLI
+gnome-backgrounds Description     : Background images and data for GNOME
+gnome-browser-connector Description     : Native browser connector for integration with extensions.gnome.org
+gnome-calculator Description     : GNOME Scientific calculator
+gnome-calendar Description     : Simple and beautiful calendar application designed to perfectly fit the GNOME desktop
+gnome-characters Description     : A character map application
+gnome-chess Description     : Play the classic two-player boardgame of chess
+gnome-clocks Description     : Clocks applications for GNOME
+gnome-connections Description     : Remote desktop client for the GNOME desktop environment
+gnome-contacts Description     : Contacts Manager for GNOME
+gnome-control-center Description     : GNOME's main interface to configure various aspects of the desktop
+gnome-disk-utility Description     : Disk Management Utility for GNOME
+gnome-firmware Description     : Manage firmware on devices supported by fwupd
+gnome-font-viewer Description     : A font viewer utility for GNOME
+gnome-keyring Description     : Stores passwords and encryption keys
+gnome-layout-switcher Description     : A simple GUI for choosing GNOME desktop layout
+gnome-logs Description     : A log viewer for the systemd journal
+gnome-maps Description     : A simple GNOME 3 maps application
+gnome-mines Description     : Clear hidden mines from a minefield
+gnome-remote-desktop Description     : GNOME Remote Desktop server
+gnome-session Description     : The GNOME Session Handler
+gnome-settings-daemon Description     : GNOME Settings Daemon
+gnome-shell-extension-appindicator Description     : AppIndicator/KStatusNotifierItem support for GNOME Shell
+gnome-shell-extension-arcmenu Description     : Application Menu Extension for GNOME
+gnome-shell-extension-custom-accent-colors Description     : Set a custom accent color for GTK4/GTK3 apps and GNOME Shell
+gnome-shell-extension-dash-to-dock Description     : A dock for the GNOME Shell
+gnome-shell-extension-dash-to-panel Description     : Extension for GNOME Shell to combine the dash and main panel
+gnome-shell-extension-gnome-ui-tune Description     : Tunes GNOME Overview UI to make it more usable.
+gnome-shell-extension-gsconnect Description     : KDE Connect implementation with GNOME Shell integration
+gnome-shell-extension-gtk4-desktop-icons-ng Description     : A fork from Desktop Icons NG that uses the Gtk4 toolkit and has several enhancements.
+gnome-shell-extension-legacy-theme-auto-switcher Description     : Change the GTK3 theme to light/dark variant based on the system color scheme on GNOME 42
+gnome-shell-extension-material-shell Description     : A modern desktop interface for Linux extending GNOME Shell
+gnome-shell-extension-x11gestures Description     : Enable GNOME Shell multi-touch gestures on X11
+gnome-shell-extensions Description     : Extensions for GNOME shell, including classic mode
+gnome-shell-maia Description     : Dummy transition package
+gnome-system-monitor Description     : View current processes and monitor system state
+gnome-terminal Description     : The GNOME Terminal Emulator
+gnome-themes-extra Description     : Extra Themes for GNOME Applications
+gnome-tour Description     : Guided tour and greeter for GNOME
+gnome-tweaks Description     : Graphical interface for advanced GNOME 3 settings (Tweak Tool)
+gnome-user-docs Description     : User documentation for GNOME
+gnome-user-share Description     : Easy to use user-level file sharing for GNOME
+gnome-weather Description     : Access current weather conditions and forecasts
+gnuchess Description     : Play chess against the computer on a terminal and an engine for graphical chess frontends
+google-chrome Description     : The popular web browser by Google (Stable Channel)
+grilo-plugins Description     : A collection of plugins for the Grilo framework
+grub Description     : GNU GRand Unified Bootloader (2)
+grub-btrfs Description     : Include btrfs snapshots in GRUB boot options
+grub-theme-manjaro Description     : Manjaro Linux grub theme
+gthumb Description     : Image browser and viewer for the GNOME Desktop
+gtk-engine-murrine Description     : GTK2 engine to make your desktop look like a 'murrina', an italian word meaning the art glass works done by Venicians glass blowers.
+gtk-theme-switch2 Description     : Gtk2 theme switcher
+gtksourceview-pkgbuild Description     : PKGBUILD syntax highlight support in GtkSourceView
+gufw Description     : Uncomplicated way to manage your Linux firewall
+gvfs Description     : Virtual filesystem implementation for GIO
+gvfs-afc Description     : Virtual filesystem implementation for GIO (AFC backend; Apple mobile devices)
+gvfs-google Description     : Virtual filesystem implementation for GIO (Google Drive backend)
+gvfs-gphoto2 Description     : Virtual filesystem implementation for GIO (gphoto2 backend; PTP camera, MTP media player)
+gvfs-mtp Description     : Virtual filesystem implementation for GIO (MTP backend; Android, media player)
+gvfs-nfs Description     : Virtual filesystem implementation for GIO (NFS backend)
+gvfs-smb Description     : Virtual filesystem implementation for GIO (SMB/CIFS backend; Windows client)
+haveged Description     : Entropy harvesting daemon using CPU timings
+helix Description     : A post-modern modal text editor
+htop Description     : Interactive process viewer
+i3-wm Description     : Improved dynamic tiling window manager
+i3blocks Description     : Define blocks for your i3bar status line
+i3status Description     : Generates status bar to use with i3bar, dzen2 or xmobar
+iagno Description     : Dominate the board in a classic version of Reversi
+ibus Description     : Next Generation Input Bus for Linux
+inetutils Description     : A collection of common network programs
+intel-ucode Description     : Microcode update files for Intel CPUs
+inxi Description     : Full featured CLI system information tool
+jfsutils Description     : JFS filesystem utilities
+kvantum-manjaro Description     : Maia and Breath themes for Kvantum
+less Description     : A terminal based program for viewing text files
+lib32-libva-vdpau-driver Description     : VDPAU backend for VA API (32-bit)
+lib32-mesa-vdpau Description     : VDPAU drivers (32-bit)
+lib32-vulkan-intel Description     : Intel's Vulkan mesa driver (32-bit)
+lib32-vulkan-radeon Description     : Radeon's Vulkan mesa driver (32-bit)
+libdvdcss Description     : Portable abstraction library for DVD decryption
+libpamac-flatpak-plugin Description     : Flatpak plugin for Pamac
+libva-mesa-driver Description     : VA-API drivers
+libva-vdpau-driver Description     : VDPAU backend for VA API
+linux61 Description     : The Linux61 kernel and modules
+logrotate Description     : Rotates system logs automatically
+lollypop Description     : Music player for GNOME
+lrzip Description     : Multi-threaded compression with rzip/lzma, lzo, and zpaq
+lsd Description     : Modern ls with a lot of pretty colors and awesome icons
+lvm2 Description     : Logical Volume Manager 2 utilities
+lxappearance-gtk3 Description     : Feature-rich GTK+ theme switcher of the LXDE Desktop (GTK+ 3 version)
+maim Description     : Utility to take a screenshot using imlib2
+malcontent Description     : Parental control support for applications
+man-db Description     : A utility for reading man pages
+man-pages Description     : Linux man pages
+manjaro-alsa Description     : Manjaro meta package for complete ALSA support
+manjaro-base-skel Description     : Manjaro Linux base skeleton files
+manjaro-browser-settings Description     : Manjaro Linux settings browser defaults
+manjaro-gdm-branding Description     : Manjaro GDM branding
+manjaro-gnome-backgrounds Description     : Background images and data for Manjaro GNOME
+manjaro-gnome-extension-settings Description     : Manjaro Linux GNOME extensions settings
+manjaro-gnome-settings Description     : Manjaro Linux GNOME settings
+manjaro-gstreamer Description     : Manjaro meta package for complete Gstreamer support
+manjaro-hello Description     : A tool providing access to documentation and support for new Manjaro users.
+manjaro-input Description     : Manjaro meta package for complete input support
+manjaro-log-helper Description     : Gathers selected system logs and optionally sends them to the internet.
+manjaro-modem Description     : Manjaro meta package for complete modem support
+manjaro-printer Description     : Manjaro meta package for complete printing support
+manjaro-pulse Description     : Manjaro meta package for complete PulseAudio support
+manjaro-ranger-settings Description     : Manjaro Linux ranger settings
+manjaro-release Description     : Manjaro's release definition
+manjaro-settings-manager Description     : Manjaro Linux System Settings Tool
+manjaro-settings-manager-notifier Description     : Manjaro Linux System Settings Tool (Notifier)
+manjaro-system Description     : Manjaro Linux System - Update script
+manjaro-zsh-config Description     : Zsh configuration for manjaro
+mdadm Description     : A tool for managing/monitoring Linux md device arrays, also known as Software RAID
+memtest86+ Description     : Advanced memory diagnostic tool legacy BIOS version
+memtest86+-efi Description     : Advanced memory diagnostic tool EFI version
+mesa-utils Description     : Essential Mesa utilities
+mesa-vdpau Description     : VDPAU drivers
+meson Description     : High productivity build system
+mhwd Description     : Manjaro Linux Hardware Detection library and application
+mhwd-db Description     : Manjaro Linux Hardware Detection Database
+mkinitcpio-openswap Description     : mkinitcpio hook to open swap at boot time
+modemmanager Description     : Mobile broadband modem management service
+nano Description     : Pico editor clone with enhancements
+nano-syntax-highlighting Description     : improved nano syntax highlighting files
+nautilus Description     : Default file manager for GNOME
+nautilus-admin Description     : Extension for Nautilus to do administrative operations
+nautilus-empty-file Description     : Provides context menu 'New Document' functionality for Nautilus
+neofetch Description     : A CLI system information tool written in BASH that supports displaying images.
+neovim Description     : Fork of Vim aiming to improve user experience, plugins, and GUIs
+network-manager-sstp Description     : SSTP support for NetworkManager
+networkmanager Description     : Network connection manager and user applications
+networkmanager-openconnect Description     : NetworkManager VPN plugin for OpenConnect
+networkmanager-openvpn Description     : NetworkManager VPN plugin for OpenVPN
+networkmanager-pptp Description     : NetworkManager VPN plugin for PPTP
+networkmanager-strongswan Description     : Strongswan NetworkManager plugin
+networkmanager-vpnc Description     : NetworkManager VPN plugin for VPNC
+nfs-utils Description     : Support programs for Network File Systems
+nitrogen Description     : Background browser and setter for X windows
+nodejs Description     : Evented I/O for V8 javascript
+noto-fonts Description     : Google Noto TTF fonts
+noto-fonts-emoji Description     : Google Noto emoji fonts
+npm Description     : A package manager for JavaScript
+nss-mdns Description     : glibc plugin providing host name resolution via mDNS
+ntfs-3g Description     : NTFS filesystem driver and utilities
+ocs-url Description     : An install helper program for items served via OpenCollaborationServices (ocs://).
+openresolv Description     : resolv.conf management framework (resolvconf)
+openssh Description     : SSH protocol implementation for remote login, command execution and file transfer
+os-prober Description     : Utility to detect other OSes on a set of drives
+p7zip Description     : Command-line file archiver with high compression ratio
+pacui Description     : Bash script providing advanced Pacman and AUR helper functionality in a simple UI
+pamac-gnome-integration Description     : Pamac GNOME integration (GTK3)
+pamac-gtk Description     : A Package Manager based on libalpm with AUR and Appstream support (GTK4)
+papirus-maia-icon-theme Description     : Manjaro variation of Papirus icon theme
+paru Description     : Feature packed AUR helper
+perl Description     : A highly capable, feature-rich programming language
+picom Description     : X compositor that may fix tearing issues
+plocate Description     : Alternative to locate, faster and compatible with mlocate's database.
+plymouth-theme-manjaro Description     : Plymouth theme for Manjaro
+pnpm Description     : Fast, disk space efficient package manager
+polybar Description     : A fast and easy-to-use status bar
+polybar-spotify-module Description     : Programs to display spotify information and control spotify with polybar
+power-profiles-daemon Description     : Makes power profiles handling available over D-Bus
+python-pip Description     : The PyPA recommended tool for installing Python packages
+python-pipx Description     : Install and Run Python Applications in Isolated Environments
+pywal-16-colors Description     : Generate and change color-schemes on the fly, now with 16 colors.
+qt5ct Description     : Qt5 Configuration Utility
+qt6ct Description     : Qt 6 Configuration Utility
+quadrapassel Description     : Fit falling blocks together (Tetris-like game for GNOME)
+reiserfsprogs Description     : Reiserfs utilities
+rofi Description     : A window switcher, application launcher and dmenu replacement
+rsync Description     : A fast and versatile file copying tool for remote and local files
+rygel Description     : UPnP AV MediaServer and MediaRenderer
+s-nail Description     : Environment for sending and receiving mail
+scrot Description     : Simple command-line screenshot utility for X
+seahorse Description     : GNOME application for managing PGP keys.
+simple-scan Description     : Simple scanning utility
+snapd Description     : Service and tools for management of snap packages.
+sof-firmware Description     : Sound Open Firmware
+spectacle Description     : KDE screenshot capture utility
+spectre-meltdown-checker Description     : Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker
+spotify-tui Description     : Spotify client for the terminal written in Rust
+squashfs-tools Description     : Tools for squashfs, a highly compressed read-only filesystem for Linux
+starship Description     : The cross-shell prompt for astronauts
+steam Description     : Valve's digital software delivery system
+sudo Description     : Give certain users the ability to run some commands as root
+sushi Description     : A quick previewer for Nautilus
+sysfsutils Description     : System Utilities Based on Sysfs
+system-config-printer Description     : A CUPS printer configuration tool and status applet
+systemd Description     : system and service manager
+telegram-desktop Description     : Official Telegram Desktop client
+texinfo Description     : GNU documentation system for on-line information and printed output
+timeshift Description     : A system restore utility for Linux
+timeshift-autosnap-manjaro Description     : Timeshift auto-snapshot script which runs before package upgrade using Pacman hook.
+tmux Description     : Terminal multiplexer
+totem Description     : Movie player for the GNOME desktop based on GStreamer
+touche Description     : The desktop application to configure Touchégg
+tracker3-miners Description     : Filesystem indexer and metadata extractor
+ttf-dejavu Description     : Font family based on the Bitstream Vera Fonts with a wider range of characters
+ttf-droid Description     : General-purpose fonts released by Google as part of Android
+ttf-hack Description     : A hand groomed and optically balanced typeface based on Bitstream Vera Mono.
+ttf-inconsolata Description     : Monospace font for pretty code listings and for the terminal
+ttf-indic-otf Description     : Indic Opentype Fonts collection
+ttf-liberation Description     : Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New
+unace Description     : An extraction tool for the proprietary ace archive format
+unrar Description     : The RAR uncompression program
+usbutils Description     : A collection of USB tools to query connected USB devices
+vi Description     : The original ex/vi text editor
+vulkan-intel Description     : Intel's Vulkan mesa driver
+vulkan-radeon Description     : Radeon's Vulkan mesa driver
+webapp-manager Description     : Run websites as if they were apps
+wget Description     : Network utility to retrieve files from the Web
+which Description     : A utility to show the full path of commands
+wireless-regdb Description     : Central Regulatory Domain Database
+wpa_supplicant Description     : A utility providing key negotiation for WPA wireless networks
+xdg-desktop-portal-gnome Description     : A backend implementation for xdg-desktop-portal for the GNOME desktop environment
+xdg-user-dirs-gtk Description     : Creates user dirs and asks to relocalize them
+xdg-utils Description     : Command line tools that assist applications with a variety of desktop integration tasks
+xf86-video-amdgpu Description     : X.org amdgpu video driver
+xf86-video-ati Description     : X.org ati video driver
+xf86-video-intel Description     : X.org Intel i810/i830/i915/945G/G965+ video drivers
+xf86-video-nouveau Description     : Open Source 3D acceleration driver for nVidia cards
+xfsprogs Description     : XFS filesystem utilities
+xorg-server Description     : Xorg X server
+xorg-xinit Description     : X.Org initialisation program
+yakuake Description     : A drop-down terminal emulator based on KDE konsole technology
+yay-git Description     : Yet another yogurt. Pacman wrapper and AUR helper written in go. (development version)
